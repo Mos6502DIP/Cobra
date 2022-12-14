@@ -1,0 +1,6 @@
+var+.a
+1
+print
+Added 1 to var a
+printvar.a
+is number if you want no extra text displayed but it is the last line put "Null/Data"
