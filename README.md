@@ -1,2 +1,2 @@
-# Py-Basic
-A bad version of remaking basic
+# Cobra
+The worst way to code
